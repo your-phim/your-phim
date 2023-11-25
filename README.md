@@ -2,5 +2,4 @@
 
 new your phim
 
-FrontEnd
-ReactJS
+frontend
