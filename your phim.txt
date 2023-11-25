@@ -1,0 +1,6 @@
+Start your-phim
+
+FE
+
+npx create-react-app your-phim --template typescript
+npm start
